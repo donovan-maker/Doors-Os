@@ -1,4 +1,8 @@
 # Doors-Os
+Rerquires Tk, PyQt5, and Psutil to be pip installed
+Tk: 'pip install Tk'
+PyQt5: 'pip install PyQt5'
+Psutil: 'pip install Psutil'
 In VS Code, open the doors os folder, then press ctrl + ` to open the terminal.
 In the terminal type 'python main.py'.
 Wait for it to load.
